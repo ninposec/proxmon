@@ -7,3 +7,8 @@ Usage of ./proxmon:
     	Input file containing URLs (required)
   -p string
     	Proxy address as ip:port (required)
+## Install
+
+```
+go install github.com/ninposec/proxmon@latest
+```
